@@ -1,3 +1,1 @@
-# Yuri to chuj
-## Alicja to mniejszy huj
-```Pierdolić git bash
+zamyslem byly gry flaszowe typu red ball. Poczatek ma uczyc opcji poruszania sie i skoku przez pojedyńczą przeszkodę z czasem skok już nie wystarcza i do dalszego przeskoku należy użyć dasha co gracz ma na celu wykorzystać w bezpiecznym miejscu z możliwością spróbowania ponownie. Punktem kulminacyjym, gdzie poziom trudności wzrasta jest wejście na wyższą część levelu, gdzie każdy pixel się liczy oraz wykorzystanie zaokrąglenia postaci do wejścia na platformy. Gra zawiera mechanikę respownu do początku poziomu, koniec przy zdobyciu kryształu oraz poruszającą się platformę jak i ukryty przycisk do otwierania drzwi do nagrody.
